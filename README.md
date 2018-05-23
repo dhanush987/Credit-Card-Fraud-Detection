@@ -7,10 +7,10 @@ Dataset: [Anonymized credit card transactions labeled as fraudulent or genuine](
 
 Algorithm Used:
 
-1. [Simple Logistic regression](https://github.com/hvp004/creditcard-fraud-detection/blob/master/Logistic_Regression.ipynb)
-2. [Logistic Regression with Undersampling](https://github.com/hvp004/creditcard-fraud-detection/blob/master/UnderSampling.ipynb)
-3. [Synthetic Minority Over Sampling Technique (SMOTE) with gini as the critertionn of best split.](https://github.com/hvp004/creditcard-fraud-detection/blob/master/SMOTE-gini.ipynb) 
-4. [Synthetic Minority Over Sampling Technique (SMOTE) with entropy as the critertionn of best split.](https://github.com/hvp004/creditcard-fraud-detection/blob/master/SMOTE--Entropy.ipynb)
+1. [Simple Logistic regression](https://github.com/hvp004/Credit-Card-Fraud-Detection/blob/master/UnderSampling.ipynb)
+2. [Logistic Regression with Undersampling](https://github.com/hvp004/redit-Card-Fraud-Detection/blob/master/UnderSampling.ipynb)
+3. [Synthetic Minority Over Sampling Technique (SMOTE) with gini as the critertionn of best split.](https://github.com/hvp004/redit-Card-Fraud-Detection/blob/master/SMOTE-gini.ipynb) 
+4. [Synthetic Minority Over Sampling Technique (SMOTE) with entropy as the critertionn of best split.](https://github.com/hvp004/redit-Card-Fraud-Detection/blob/master/SMOTE--Entropy.ipynb)
 
 Brief Summary of performance. 
 
